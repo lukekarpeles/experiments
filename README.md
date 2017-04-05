@@ -1,2 +1,2 @@
 # experiments
-Testing and Experimenting
+Experimenting
